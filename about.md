@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+你我犹如隔镜视物，所见无非虚幻迷朦。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Small town girl
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[felicitylee@post.com](mailto:email@domain.com)
